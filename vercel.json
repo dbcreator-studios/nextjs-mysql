@@ -1,0 +1,8 @@
+{
+    "env": {
+      "MYSQL_HOST": "localhost",
+      "MYSQL_USER": "root",
+      "MYSQL_PASSWORD": "120500edbMySQL",
+      "MYSQL_DATABASE": "nextjs"
+    }
+  }
